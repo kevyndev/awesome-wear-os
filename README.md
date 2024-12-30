@@ -1,10 +1,9 @@
 ## Awesome Wear OS
-
-[Build apps for the wrist with Wear OS](https://developer.android.com/wear/)
+#### [⌚ Build apps for the wrist with Wear OS](https://developer.android.com/wear/)
 
 ## Apps
 
-### Fun
+### Entertainment
 
 - [Wear Cats](https://github.com/Turtlepaw/wear-cats)
 
