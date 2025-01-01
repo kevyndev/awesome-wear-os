@@ -41,11 +41,18 @@ This repository is currently very small, if you have a project (including closed
 
 - [Wear Cats](https://github.com/Turtlepaw/wear-cats) ([view in Play Store](https://play.google.com/store/apps/details?id=com.turtlepaw.cats)) `🔓` `🔮`
 
+### Utilities
+- [rhaeus/dnd-sync](https://github.com/rhaeus/dnd-sync) - About
+Sync DND state between Android phone and watch `🔓` `🔮`
+  - [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) - Sync DND state and Bedtime mode between Android phone and watch `🔓` `🔮`
+    - [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) - Material 3 fork of [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) `🔓` `🔮`
+
 ## Tools
 
 ### Watch Faces
 
 - [Clockwork](https://github.com/Turtlepaw/clockwork) - the all-in-one package manager and builder for Watch Face Studio Projects `🔓` `🔮`
+- [XML Preprocessor](https://github.com/gondwanasoft/xml-preprocessor) - Allows Python expressions and reduces duplication in Google-Samsung Watch Face Format XML. `🔓` `🔮`
 
 ### Guides
 
