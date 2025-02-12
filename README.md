@@ -49,9 +49,9 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 ### Utilities
 
 - [rhaeus/dnd-sync](https://github.com/rhaeus/dnd-sync) - About
-  Sync DND state between Android phone and watch `🔓` `🔮`
-  - [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) - Sync DND state and Bedtime mode between Android phone and watch `🔓` `🔮`
-    - [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) - Material 3 fork of [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) `🔓` `🔮`
+  Sync DND state between Android phone and watch `🔓`
+  - [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) - Sync DND state and Bedtime mode between Android phone and watch `🔓`
+    - [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) - Material 3 fork of [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) `🔓`
 
 ## Tools
 
