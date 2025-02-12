@@ -36,8 +36,6 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Entertainment
 
-#### Free
-
 - [Wear Cats](https://play.google.com/store/apps/details?id=com.turtlepaw.cats) ([source code](https://github.com/Turtlepaw/wear-cats)) `🔓`
 
 <details open>
