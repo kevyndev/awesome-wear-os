@@ -80,8 +80,6 @@ Apps should be placed in appropriate categories and subcategories:
 ```markdown
 ### Category Name
 
-#### Free
-
 - [Free App 1](link) `emoji`
 - [Free App 2](link) `emoji`
 
