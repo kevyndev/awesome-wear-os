@@ -12,6 +12,9 @@ We accept:
 - Both free and paid content
 - Open and closed source projects
 
+> [!WARNING]
+> At this time, we currently do not accept paid watch faces, except ones that are open-source.
+
 Projects should be:
 
 - Related to Wear OS
@@ -45,13 +48,18 @@ Use these emojis to indicate the source code availability:
 
 ```markdown
 - [App Name](link) `emoji`
+- [App Name](link) - Brief description `emoji`
 ```
 
 For open source projects:
 
 ```markdown
 - [App Name](store-link) ([source code](repo-link)) `🔓`
+- [App Name](store-link) ([source code](repo-link)) - Brief description `🔓`
 ```
+
+> [!TIP]
+> Add a brief description after the link(s) if the app name isn't self-explanatory. Keep descriptions concise and focused on the main feature.
 
 ### Examples
 
@@ -62,16 +70,21 @@ Closed source paid app:
 
 ```markdown
 - [Amazing Watch Face](https://play.google.com/...) `🔒`
+- [Sleep Monitor Pro](https://play.google.com/...) - Advanced sleep tracking with heart rate monitoring `🔒`
 ```
 
 Open source free app:
 
 ```markdown
 - [Cool Timer](https://play.google.com/...) ([source code](https://github.com/...)) `🔓`
+- [Battery Widget](https://play.google.com/...) ([source code](https://github.com/...)) - Simple tile showing battery levels of watch and phone `🔓`
 ```
 
 > [!WARNING]
 > Ensure all links are permanent and point to Google Play or a GitHub release (or similar), not to specific versions or temporary locations.
+
+> [!NOTE]
+> Descriptions are optional but recommended for apps with non-obvious functionality.
 
 ### Category Structure
 
@@ -80,8 +93,8 @@ Apps should be placed in appropriate categories and subcategories:
 ```markdown
 ### Category Name
 
-- [Free App 1](link) `emoji`
-- [Free App 2](link) `emoji`
+- [Free App 1](link) - short description of app `emoji`
+- [Free App 2](link) - short description of app `emoji`
 
 <details open>
 <summary>🪙 Apps with in app purchases</summary>
