@@ -15,7 +15,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
     - [Source](#source)
   - [Apps](#apps)
     - [Entertainment](#entertainment)
-      - [Free](#free)
+    - [Health \& Fitness](#health--fitness)
     - [Utilities](#utilities)
   - [Tools](#tools)
     - [Watch Faces](#watch-faces)
@@ -46,7 +46,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 <summary>💰 Paid apps</summary>
 </details>
 
-### Fitness
+### Health & Fitness
 
 - [On Track](https://play.google.com/store/apps/details?id=au.gondwanasoftware.ontrack) ([source code](https://github.com/gondwanasoft/wear-os-on-track/tree/master)) `🔓`
 
