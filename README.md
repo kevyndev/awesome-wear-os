@@ -53,16 +53,16 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 ### Utilities
 
 - [rhaeus/dnd-sync](https://github.com/rhaeus/dnd-sync) - About
-  Sync DND state between Android phone and watch `🔓`
-  - [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) - Sync DND state and Bedtime mode between Android phone and watch `🔓`
-    - [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) - Material 3 fork with improvements `🔓`
+  Sync DND state between Android phone and watch.
+  - [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) - Sync DND state and Bedtime mode between Android phone and watch.
+    - [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) - Material 3 fork with improvements.
 
 ## Tools
 
 ### Watch Faces
 
-- [Clockwork](https://github.com/Turtlepaw/clockwork) - the all-in-one package manager and builder for Watch Face Studio Projects `🔓`
-- [XML Preprocessor](https://github.com/gondwanasoft/xml-preprocessor) - Allows Python expressions and reduces duplication in Google-Samsung Watch Face Format XML. `🔓`
+- [Clockwork](https://github.com/Turtlepaw/clockwork) - the all-in-one package manager and builder for Watch Face Studio Projects.
+- [XML Preprocessor](https://github.com/gondwanasoft/xml-preprocessor) - Allows Python expressions and reduces duplication in Google-Samsung Watch Face Format XML.
 
 ### Guides
 
