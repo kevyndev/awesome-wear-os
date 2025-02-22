@@ -17,16 +17,6 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
   - [Guides](#guides)
   - [Design Guidelines](#design-guidelines)
 
-### Legend
-
-#### Source
-
-- `🔓` = Open-source (code is publicly available)
-- `🔒` = Closed-source (code is private)
-
-> [!TIP]
-> "Source" refers to the code that runs the app.
-
 ## Apps
 
 ### Entertainment
