@@ -6,21 +6,16 @@ A curated list of awesome Wear OS apps, tools, and resources.
 
 We welcome all Wear OS projects - free, paid, open or closed source! Check out our [contribution guidelines](CONTRIBUTING.md) to add your project!
 
-### Table of Contents
+### Contents
 
-- [Awesome Wear OS](#awesome-wear-os)
-  - [Submit your project](#submit-your-project)
-  - [Table of Contents](#table-of-contents)
-  - [Legend](#legend)
-    - [Source](#source)
-  - [Apps](#apps)
-    - [Entertainment](#entertainment)
-    - [Health \& Fitness](#health--fitness)
-    - [Utilities](#utilities)
-  - [Tools](#tools)
-    - [Watch Faces](#watch-faces)
-    - [Guides](#guides)
-    - [Design Guidelines](#design-guidelines)
+- [Apps](#apps)
+  - [Entertainment](#entertainment)
+  - [Health \& Fitness](#health--fitness)
+  - [Utilities](#utilities)
+- [Tools](#tools)
+  - [Watch Faces](#watch-faces)
+  - [Guides](#guides)
+  - [Design Guidelines](#design-guidelines)
 
 ### Legend
 
