@@ -2,7 +2,8 @@
 
 A curated list of awesome Wear OS apps, tools, and resources.
 
-##### Submit your project
+<!--lint ignore awesome-toc-->
+#### Submit your project
 
 We welcome all Wear OS projects - free, paid, open or closed source! Check out our [contribution guidelines](CONTRIBUTING.md) to add your project!
 
