@@ -1,8 +1,9 @@
 # Awesome Wear OS
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Wear OS apps, tools, and resources.
 
-### Submit your project
+##### Submit your project
 
 We welcome all Wear OS projects - free, paid, open or closed source! Check out our [contribution guidelines](CONTRIBUTING.md) to add your project!
 
