@@ -36,7 +36,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Entertainment
 
-- [Wear Cats](https://play.google.com/store/apps/details?id=com.turtlepaw.cats) ([source code](https://github.com/Turtlepaw/wear-cats)) `🔓`
+- [Wear Cats](https://play.google.com/store/apps/details?id=com.turtlepaw.cats) - Discover a delightful world of cats and bunnies right on your Wear OS watch. ([source code](https://github.com/Turtlepaw/wear-cats))
 
 <details open>
 <summary>🪙 Apps with in app purchases (IAP)</summary>
@@ -48,7 +48,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Health & Fitness
 
-- [On Track](https://play.google.com/store/apps/details?id=au.gondwanasoftware.ontrack) ([source code](https://github.com/gondwanasoft/wear-os-on-track/tree/master)) `🔓`
+- [On Track](https://play.google.com/store/apps/details?id=au.gondwanasoftware.ontrack) - *No description provided*. ([source code](https://github.com/gondwanasoft/wear-os-on-track/tree/master))
 
 ### Utilities
 
