@@ -1,5 +1,4 @@
-# Awesome Wear OS
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Wear OS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Wear OS apps, tools, and resources.
 
