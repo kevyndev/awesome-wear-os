@@ -6,7 +6,7 @@ A curated list of awesome Wear OS apps, tools, and resources.
 
 We welcome all Wear OS projects - free, paid, open or closed source! Check out our [contribution guidelines](CONTRIBUTING.md) to add your project!
 
-# Contents
+## Contents
 
 - [Apps](#apps)
   - [Entertainment](#entertainment)
