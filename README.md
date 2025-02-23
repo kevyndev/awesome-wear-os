@@ -34,7 +34,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Health & Fitness
 
-- [On Track](https://play.google.com/store/apps/details?id=au.gondwanasoftware.ontrack) - *No description provided*. ([source code](https://github.com/gondwanasoft/wear-os-on-track/tree/master))
+- [On Track](https://play.google.com/store/apps/details?id=au.gondwanasoftware.ontrack) - Kotlin and Compose app, with complications and tiles, that compares activity with expected achievement at the current time. ([source code](https://github.com/gondwanasoft/wear-os-on-track/tree/master))
 
 ### Utilities
 
