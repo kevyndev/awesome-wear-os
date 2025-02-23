@@ -34,16 +34,6 @@ Projects should be:
 
 ## Format Guidelines
 
-### Source Code Indicators
-
-Use these emojis to indicate the source code availability:
-
-- `🔓` = Open-source project (code is publicly available)
-- `🔒` = Closed-source project (code is private)
-
-> [!IMPORTANT]
-> Always include the appropriate emoji at the end of your entry to help users quickly identify project types.
-
 ### Basic Entry Format
 
 ```markdown
@@ -57,7 +47,7 @@ For open source projects:
 ```
 
 > [!TIP]
-> Add a brief description after the link and add proper punctuation. Keep descriptions concise and focused on the main feature.
+> Add a brief description after the link and add proper punctuation. Keep descriptions concise and focused on the main functionality of your app.
 
 ### Examples
 
