@@ -49,6 +49,9 @@ For open source projects:
 > [!TIP]
 > Add a brief description after the link and add proper punctuation. Keep descriptions concise and focused on the main functionality of your app.
 
+> [!TIP]
+> If your project's store link and source code link are the same, we recommend using the open-source entry format to highlight that your project is open-source.
+
 ### Examples
 
 > [!TIP]
@@ -68,9 +71,6 @@ Open source free app:
 
 > [!WARNING]
 > Ensure all links are permanent and point to Google Play or a GitHub release (or similar), not to specific versions or temporary locations.
-
-> [!WARNING]
-> Descriptions are required.
 
 ### Category Structure
 
