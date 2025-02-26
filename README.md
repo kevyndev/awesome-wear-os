@@ -50,6 +50,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 - [Clockwork](https://github.com/Turtlepaw/clockwork) - The all-in-one package manager and builder for Watch Face Studio Projects.
 - [XML Preprocessor](https://github.com/gondwanasoft/xml-preprocessor) - Allows Python expressions and reduces duplication in Google-Samsung Watch Face Format XML.
 - [Always On Display Assessor](https://github.com/gondwanasoft/wff-aod) - Tool for estimating AOD compliance of Watch Face Format screenshots or mockups.
+- [Watch Face Format Boilerplate Project](https://github.com/gondwanasoft/wff-boilerplate) - Empty Watch Face Format (WFF) project; useful for creating new WFF projects.
 
 ### Guides
 
