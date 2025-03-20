@@ -42,6 +42,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
   Sync DND state between Android phone and watch.
   - [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) - Sync DND state and Bedtime mode between Android phone and watch.
     - [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) - Material 3 fork with improvements.
+- [AuroraRAS/watchcat](https://github.com/AuroraRAS/watchcat) - display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
 
 ## Tools
 
