@@ -52,6 +52,15 @@ For open source projects:
 > [!TIP]
 > If your project's store link and source code link are the same, we recommend using the open-source entry format to highlight that your project is open-source.
 
+> [!NOTE]
+> If your project is a fork of a project on this list, create a subitem with your project:
+>
+> ```md
+> [OWNER/REPO_NAME](https://github.com/...) - Description of your fork.
+> ```
+>
+> Make sure you highlight why your fork is better than the parent project.
+
 ### Examples
 
 > [!TIP]

@@ -9,20 +9,22 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 -->
 ## Contents
 
-- [Apps](#apps)
-  - [Entertainment](#entertainment)
-  - [Health & Fitness](#health--fitness)
-  - [Utilities](#utilities)
-- [Tools](#tools)
-  - [Watch Faces](#watch-faces)
-  - [Guides](#guides)
-  - [Design Guidelines](#design-guidelines)
+- [Awesome Wear OS ](#awesome-wear-os-)
+  - [Contents](#contents)
+  - [Apps](#apps)
+    - [Entertainment](#entertainment)
+    - [Health \& Fitness](#health--fitness)
+    - [Utilities](#utilities)
+  - [Tools](#tools)
+    - [Watch Faces](#watch-faces)
+    - [Guides](#guides)
+    - [Design Guidelines](#design-guidelines)
 
 ## Apps
 
 ### Entertainment
 
-- [Wear Cats](https://play.google.com/store/apps/details?id=com.turtlepaw.cats) - Discover a delightful world of cats and bunnies right on your Wear OS watch. ([source code](https://github.com/Turtlepaw/wear-cats))
+- [Wear Cats](https://play.google.com/store/apps/details?id=com.turtlepaw.cats) - Discover a delightful world of cats and bunnies right on your Wear OS watch. [(source code)](https://github.com/Turtlepaw/wear-cats)
 
 <details open>
 <summary>🪙 Apps with in app purchases (IAP)</summary>
@@ -34,15 +36,14 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Health & Fitness
 
-- [On Track](https://play.google.com/store/apps/details?id=au.gondwanasoftware.ontrack) - App (with complications and tiles) that compares activity with expected achievement at the current time. ([source code](https://github.com/gondwanasoft/wear-os-on-track/tree/master))
+- [On Track](https://play.google.com/store/apps/details?id=au.gondwanasoftware.ontrack) - Compare activity with expected achievement at the current time, includes tiles and complications. [(source code)](https://github.com/gondwanasoft/wear-os-on-track/tree/master)
 
 ### Utilities
 
-- [rhaeus/dnd-sync](https://github.com/rhaeus/dnd-sync) - About
-  Sync DND state between Android phone and watch.
-  - [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) - Sync DND state and Bedtime mode between Android phone and watch.
+- [DND Sync](https://github.com/rhaeus/dnd-sync) - Sync DND state between Android phone and watch. [(source code)](https://github.com/rhaeus/dnd-sync)
+  - [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) - Sync DND state and bedtime mode between your Android phone and watch.
     - [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) - Material 3 fork with improvements.
-- [AuroraRAS/watchcat](https://github.com/AuroraRAS/watchcat) - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
+- [Watchcat](https://github.com/AuroraRAS/watchcat) - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
 
 ## Tools
 
