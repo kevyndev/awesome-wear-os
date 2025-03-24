@@ -9,7 +9,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 -->
 ## Contents
 
-- [Awesome Wear OS ](#awesome-wear-os-)
+- [Awesome Wear OS](#awesome-wear-os)
   - [Contents](#contents)
   - [Apps](#apps)
     - [Entertainment](#entertainment)
