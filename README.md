@@ -45,6 +45,12 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
     - [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) - Material 3 fork with improvements.
 - [Watchcat](https://github.com/AuroraRAS/watchcat) - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
 
+<details>
+<summary>💰 Paid apps</summary>
+
+- [Offline Dictionary - English](https://play.google.com/store/apps/details?id=com.jackappsdev.dictionary_wear_en) - Access Dictionary Anytime, Anywhere Without Internet On Your Wrist
+</details>
+
 ## Tools
 
 ### Watch Faces
