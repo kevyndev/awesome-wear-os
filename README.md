@@ -42,6 +42,13 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
   - [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) - Sync DND state and bedtime mode between your Android phone and watch.
     - [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) - Material 3 fork with improvements.
 - [Watchcat](https://github.com/AuroraRAS/watchcat) - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
+- [Offline Password Manager](https://play.google.com/store/apps/details?id=com.jackappsdev.password_manager) - Minimalistic & secure password manager with phone app. [(source code)](https://github.com/jagadeesh-k-2802/password-manager-compose)
+
+<details>
+<summary>💰 Paid apps</summary>
+
+- [Offline Dictionary - English](https://play.google.com/store/apps/details?id=com.jackappsdev.dictionary_wear_en) - Access dictionary anytime, anywhere without internet on your wrist.
+</details>
 
 ## Tools
 
