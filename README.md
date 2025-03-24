@@ -9,16 +9,14 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 -->
 ## Contents
 
-- [Awesome Wear OS](#awesome-wear-os)
-  - [Contents](#contents)
-  - [Apps](#apps)
-    - [Entertainment](#entertainment)
-    - [Health \& Fitness](#health--fitness)
-    - [Utilities](#utilities)
-  - [Tools](#tools)
-    - [Watch Faces](#watch-faces)
-    - [Guides](#guides)
-    - [Design Guidelines](#design-guidelines)
+- [Apps](#apps)
+   - [Entertainment](#entertainment)
+   - [Health & Fitness](#health--fitness)
+   - [Utilities](#utilities)
+ - [Tools](#tools)
+   - [Watch Faces](#watch-faces)
+   - [Guides](#guides)
+   - [Design Guidelines](#design-guidelines)
 
 ## Apps
 
