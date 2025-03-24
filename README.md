@@ -9,16 +9,14 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 -->
 ## Contents
 
-- [Awesome Wear OS ](#awesome-wear-os-)
-  - [Contents](#contents)
-  - [Apps](#apps)
-    - [Entertainment](#entertainment)
-    - [Health \& Fitness](#health--fitness)
-    - [Utilities](#utilities)
-  - [Tools](#tools)
-    - [Watch Faces](#watch-faces)
-    - [Guides](#guides)
-    - [Design Guidelines](#design-guidelines)
+- [Apps](#apps)
+   - [Entertainment](#entertainment)
+   - [Health & Fitness](#health--fitness)
+   - [Utilities](#utilities)
+- [Tools](#tools)
+   - [Watch Faces](#watch-faces)
+   - [Guides](#guides)
+   - [Design Guidelines](#design-guidelines)
 
 ## Apps
 
@@ -37,11 +35,12 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 ### Health & Fitness
 
 - [On Track](https://play.google.com/store/apps/details?id=au.gondwanasoftware.ontrack) - Compare activity with expected achievement at the current time, includes tiles and complications. [(source code)](https://github.com/gondwanasoft/wear-os-on-track/tree/master)
+- [Empirical Health](https://play.google.com/store/apps/details?id=com.empiricalhealth.EmpiricalHealth) - Optimize your heart health using your WearOS data, including working with real doctors.
 
 <details open>
 <summary>🪙 Apps with in app purchases (IAP)</summary>
 
-- [Empirical Health](https://play.google.com/store/apps/details?id=com.empiricalhealth.EmpiricalHealth) - Optimize your heart health using your WearOS data, including working with real doctors.
+> - [Empirical Health](https://play.google.com/store/apps/details?id=com.empiricalhealth.EmpiricalHealth) - Optimize your heart health using your WearOS data, including working with real doctors.
 
 </details>
 
