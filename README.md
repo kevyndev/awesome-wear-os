@@ -13,7 +13,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
    - [Entertainment](#entertainment)
    - [Health & Fitness](#health--fitness)
    - [Utilities](#utilities)
- - [Tools](#tools)
+- [Tools](#tools)
    - [Watch Faces](#watch-faces)
    - [Guides](#guides)
    - [Design Guidelines](#design-guidelines)
