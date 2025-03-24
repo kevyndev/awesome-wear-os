@@ -36,6 +36,13 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 - [On Track](https://play.google.com/store/apps/details?id=au.gondwanasoftware.ontrack) - Compare activity with expected achievement at the current time, includes tiles and complications. [(source code)](https://github.com/gondwanasoft/wear-os-on-track/tree/master)
 
+<details open>
+<summary>🪙 Apps with in app purchases (IAP)</summary>
+
+> - [Empirical Health](https://play.google.com/store/apps/details?id=com.empiricalhealth.EmpiricalHealth) - Optimize your heart health using your WearOS data, including working with real doctors.
+
+</details>
+
 ### Utilities
 
 - [rhaeus/dnd-sync](https://github.com/rhaeus/dnd-sync) - Sync DND state between Android phone and watch.
